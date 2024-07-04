@@ -1,0 +1,4 @@
+.nonEvents {
+  pointer-events: none;
+  background-color: blue;
+}
